@@ -1,7 +1,5 @@
 ### It's Bassirou NGOM 👋
 
-[![Bngesp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bngesp&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">I'm computer science Phd  from Senegal. I'm not a developper. But i like to code:-)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathcoll" alt="mathcoll" /></a> </p>
