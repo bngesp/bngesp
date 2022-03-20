@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathcoll" alt="mathcoll" /></a> </p>
 
 - 🔭 I’m currently working on [ubiquitySense](https://github.com/bngesp/ubiquitySense)
-- 👌🏾 And [ubiquitySense](https://github.com/bngesp/Arduino-mqtt-sn-gateway-aggrate)
+- 👌🏾 And [mqtt-sn on arduino as gateway aggrate](https://github.com/bngesp/Arduino-mqtt-sn-gateway-aggrate)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.researchgate.net/profile/Bassirou-Ngom" target="blank"><img align="center" src="https://www.researchgate.net/?ref=logo&_sg=zw0SghKx8QblcFZ9Xq-uqKqsTo8RTiaS3e7Gr51rcRumcWQXnuylgp_LE26oX-VojFBUMvVmQAMlEiw" alt="bassirou" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Bassirou-Ngom" target="blank"><img align="center" src="https://c5.rgstatic.net/m/433110575315790/images/template/brand-header-logo.svg" alt="bassirou" height="30" width="40" /></a>
 <a href="https://twitter.com/bngbass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bassirou" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bassirou-n-9a72b8109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassirou" height="30" width="40" /></a>
 </p>
