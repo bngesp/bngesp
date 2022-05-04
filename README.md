@@ -1,10 +1,12 @@
 ### It's Bassirou NGOM 👋
 
 <h3 align="center">I'm computer science Phd  from Senegal. I'm not a developper. But i like to code:-)</h3>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=bngesp&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bngesp" alt="bngesp" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bngesp" alt="bngesp" /></a> </p>-->
 
 - 🔭 I’m currently working on [ubiquitySense](https://github.com/bngesp/ubiquitySense)
 - 👌🏾 And [mqtt-sn on arduino as gateway aggrate](https://github.com/bngesp/Arduino-mqtt-sn-gateway-aggrate)
