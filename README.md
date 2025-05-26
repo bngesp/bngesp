@@ -51,14 +51,3 @@
 - 🐙 Pull Shark
 
 
-
-<h3 align="left">Statistiques</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bngesp&show_icons=true&locale=fr&layout=compact" alt="bngesp" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bngesp&show_icons=true&locale=fr" alt="bngesp" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bngesp&" alt="bngesp" />
-</p>
